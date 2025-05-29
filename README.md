@@ -15,4 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 https://github.com/DevUsama007/QuickNotes-Notes-Taking-App-/blob/main/Untitled%20design%20(4).png
+![image alt](https://raw.githubusercontent.com/DevUsama007/QuickNotes-Notes-Taking-App-/refs/heads/main/Untitled%20design%20(4).png)
 ![image alt]([https://raw.githubusercontent.com/DevUsama007/FoodPal_app/refs/heads/main/foodPalimage2.png](https://github.com/DevUsama007/QuickNotes-Notes-Taking-App-/blob/main/Untitled%20design%20(4).png))
